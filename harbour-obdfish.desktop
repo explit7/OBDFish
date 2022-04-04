@@ -5,4 +5,5 @@ Icon=harbour-obdfish
 Exec=harbour-obdfish
 Name=OBDFish
 Name[de]=OBDFish
-
+[X-Sailjail]
+Sandboxing=Disabled
